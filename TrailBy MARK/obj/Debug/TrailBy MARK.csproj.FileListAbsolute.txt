@@ -1,0 +1,9 @@
+c:\users\v-markua\documents\visual studio 2012\Projects\TrailBy MARK\TrailBy MARK\bin\Debug\TrailBy MARK.exe.config
+c:\users\v-markua\documents\visual studio 2012\Projects\TrailBy MARK\TrailBy MARK\bin\Debug\TrailBy MARK.exe
+c:\users\v-markua\documents\visual studio 2012\Projects\TrailBy MARK\TrailBy MARK\bin\Debug\TrailBy MARK.pdb
+c:\users\v-markua\documents\visual studio 2012\Projects\TrailBy MARK\TrailBy MARK\obj\Debug\TrailBy MARK.csprojResolveAssemblyReference.cache
+c:\users\v-markua\documents\visual studio 2012\Projects\TrailBy MARK\TrailBy MARK\obj\Debug\TrailBy_MARK.Properties.Resources.resources
+c:\users\v-markua\documents\visual studio 2012\Projects\TrailBy MARK\TrailBy MARK\obj\Debug\TrailBy MARK.csproj.GenerateResource.Cache
+c:\users\v-markua\documents\visual studio 2012\Projects\TrailBy MARK\TrailBy MARK\obj\Debug\TrailBy MARK.exe
+c:\users\v-markua\documents\visual studio 2012\Projects\TrailBy MARK\TrailBy MARK\obj\Debug\TrailBy MARK.pdb
+c:\users\v-markua\documents\visual studio 2012\Projects\TrailBy MARK\TrailBy MARK\obj\Debug\TrailBy_MARK.Form1.resources
